@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("modified online!");
 		System.out.println("modified local!");
+		System.out.println("modified online2!");
 
 	}
 
